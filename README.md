@@ -11,6 +11,6 @@ To accomplish that we used a [synthetic dataset](https://doi.org/10.5281/zenodo.
 5. Active Stereo Based LiDAR With Non-Systematic Error - Introduction of Camera Noise
 6. Active Stereo Based LiDAR With Systematic Error and Non-Systematic Error - Introduction of Miscalibration and Camera Noise
 
-In this file, i am going over the steps taken to process the dataset into each of the use cases.
-
 The original dataset is stored in binary files where the coordinates for each point are ordered as [x,y,z,i],[x,y,z,i]...
+
+The datasets generated using the developed scripts are available [here](https://doi.org/10.5281/zenodo.10050283).
